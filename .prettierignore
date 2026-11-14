@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+dist/
+.env
+.env.*
+*.zip
+*.tar.gz
+package-lock.json
+TASK.md
